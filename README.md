@@ -1,0 +1,2 @@
+# NTUlearn
+The aim or this project is to create Generic Web Application for this NTU lifelong-learning courses platform that is easy to use for the user and easy to maintain also for NTU. This WebApp will be built with the most popular framework at the moment, the MERN Stack. This WebApp will use React as frontend framework, Node.js as backend, MongoDB for databases system and Express for handling API and data request.
